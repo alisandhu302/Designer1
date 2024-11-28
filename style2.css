@@ -1,0 +1,25 @@
+header{ font-size:25px;
+position: fixed;
+color:black;
+    top: 0;
+    width: 100%;
+    height: 10vh;
+    line-height: 50px;
+    
+
+}
+
+.navbar{ background-color:rgb(165, 143, 189);
+
+   
+
+}
+header{ 
+background-repeat:repeat;
+
+
+}a:hover{ color:white;
+       background-color:white;
+	   transition: background-color 0.5s;
+       size:8vh;  
+}
